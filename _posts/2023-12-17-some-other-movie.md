@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Some Other Movie!"
+date:   2023-12-17 08:41:00 -0800
+categories: jekyll update
+excerpt_separator: <!--more-->
+---
+<pre class="mermaid">
+graph TD
+A[Client] --> B[Load Balancer] 
+B --> C[Server01] 
+B --> D[Server02]
+</pre>
